@@ -9,6 +9,7 @@ Main Steps of the Program
 
 
 Initialization:
+
 Initialize the board with numbers 1 to 9.
 Prompt Player 1 to choose their marker ('X' or 'O').
 Set the initial player to Player 1 and the marker to the chosen one.
