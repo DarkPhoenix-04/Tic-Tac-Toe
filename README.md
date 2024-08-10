@@ -69,6 +69,5 @@ If all slots are filled without a winner, declare the game a tie.
 
 End Game:
 
-
 Announce the winner if there is one.
 If no winner and all slots are filled, declare the game a tie.
